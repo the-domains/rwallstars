@@ -1,0 +1,28 @@
+name: rwAllStars
+favicon: null
+layout_spectrum: 0.3536564048845321
+typography_spectrum: 0.4232433447614312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8358053741976619
+  lightness: 0.6945333343464881
+  saturation: 0.1795097019057721
+  rhythmicContrast: 0.2774541834369302
+purpose: []
